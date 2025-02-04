@@ -1,3 +1,7 @@
+
+
+#1차 코드
+
 # def solution(phone_book):
 #     #phone_book -> 리스트
 #     phone_book.sort(key=len)
@@ -12,6 +16,7 @@
 #     return True
 
 
+##2차 코드
 def solution(phone_book):
     phone_set = set(phone_book)
 
